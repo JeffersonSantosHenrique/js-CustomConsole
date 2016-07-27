@@ -1,1 +1,1 @@
-# Java Script - Custom Console
+# JavaScript - Custom Console
